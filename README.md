@@ -11,6 +11,9 @@ When the bathroom occupancy changes, connected [Hue lights](http://meethue.com/)
 change colors, messages are posted to [Slack](https://slack.com/), and
 the onboard LED is toggled.
 
+![Office lights](assets/office-lights.jpg)
+![Animated lights](assets/animated-lights.gif)
+
 ### Installation
 
 Clone the Github repo and install dependencies.
@@ -25,18 +28,18 @@ npm install
 
 The following hardware is used by this project.
 
-* Spark core - [https://www.spark.io](https://www.spark.io)
+* Spark Core - [https://www.spark.io/store](https://www.spark.io/store)
 * Door sensor - [http://www.adafruit.com/products/375](http://www.adafruit.com/products/375)
-* LiPoly Battery - [http://www.adafruit.com/products/328](http://www.adafruit.com/products/328)
-* LiPoly Charger - [http://www.adafruit.com/products/259](http://www.adafruit.com/products/259)
 * Mini breadboard - [http://www.adafruit.com/products/65](http://www.adafruit.com/products/65)
 * Breadboard wires - [http://www.adafruit.com/products/153](http://www.adafruit.com/products/153)
 * 330 Ohm resistor - [https://www.sparkfun.com/products/8377](https://www.sparkfun.com/products/8377)
-* Sparkfun case - [https://www.sparkfun.com/products/8632](https://www.sparkfun.com/products/8632)
+* Altoids mints sized tin - [http://www.adafruit.com/product/97](http://www.adafruit.com/product/97)
+* Phillips Hue - [http://www2.meethue.com/](http://www2.meethue.com/)
 
 Assemble the hardware as shown below.
 
-`TODO: Add hardware photo and fritzing diagram`
+![Breadboard diagram](assets/breadboard.png)
+![Breadboard photo](assets/breadboard.jpg)
 
 #### Firmware
 
